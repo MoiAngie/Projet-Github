@@ -1,5 +1,5 @@
-.htr {
-  min-height: 1900px;
+#window-content {
+  min-height: calc(100vh - 150px);
 }
 
 header {
